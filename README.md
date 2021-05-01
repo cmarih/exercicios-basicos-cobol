@@ -30,9 +30,7 @@
     <li><a href="https://github.com/cmarih/exercicios-basicos-cobol/blob/master/C%C3%93DIGOS/LOOPING-DESC.cbl">LOOPING DECRESCENTE</a></li>
     <li><a href="https://github.com/cmarih/exercicios-basicos-cobol/blob/master/C%C3%93DIGOS/LOOPING-PARES.cbl">INCREMENTO</a></li>
     <li><a href="https://github.com/cmarih/exercicios-basicos-cobol/blob/master/C%C3%93DIGOS/CONTADOR-NUMEROS.COB">CONTADOR DE "N" NÚMEROS</a></li>
-    <li><a href="https://github.com/cmarih/exercicios-basicos-cobol/blob/master/C%C3%93DIGOS/EXERCICIO_I.cbl">CÁLCULO DA MÉDIA</a></li>
-    <li><a href="https://github.com/cmarih/exercicios-basicos-cobol/blob/master/C%C3%93DIGOS/QUADRADO.cbl">CÁLCULO DO QUADRADO DE UM NÚMERO</a></li>
-    <li><a href="https://github.com/cmarih/exercicios-basicos-cobol/blob/master/C%C3%93DIGOS/VALIDACAO-DATA.cbl">CÁLCULO DE VALIDAÇÃO DE DATA</a></li>
+
 </ul>
 
 ## Fique a vontade para sugestões!!!
