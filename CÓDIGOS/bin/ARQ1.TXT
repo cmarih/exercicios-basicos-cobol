@@ -1,0 +1,3 @@
+JOAO    18
+PAULO   16
+MARIA   20
